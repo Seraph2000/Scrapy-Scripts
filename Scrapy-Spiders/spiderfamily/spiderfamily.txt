@@ -1,0 +1,15 @@
+Data model:
+-----------
+
+spider #1:
+
+spider_link
+
+spider #2:
+
+common_name
+spider_description
+spider_origin
+spider_images
+order_family
+genus_species
